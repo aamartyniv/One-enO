@@ -1,0 +1,41 @@
+body
+{
+    background: url("img/o-OLD-COUPLE-HANDS-facebook.jpg") center fixed no-repeat;
+}
+
+div.indent {
+
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+
+span{
+
+    color: aliceblue;
+}
+
+h1 {
+
+    color: aliceblue;
+    margin-top: 120px;
+    text-align: center;
+    padding-bottom: 30px;
+}
+
+p {
+
+    text-align: center;
+    color: aliceblue;
+    margin-left: auto;
+    margin-top: 20px;
+    padding-bottom: 20px;
+}
+
+div.panel{
+
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 40px;
+}
+
